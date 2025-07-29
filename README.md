@@ -26,9 +26,9 @@ doctor-appointment/
   - services/
   - models/
   - routes/
-  - server.js
-  - package.json
-  - README.md
+- server.js
+- package.json
+- README.md
 
 # API List
 
