@@ -52,5 +52,5 @@ doctor-appointment/
 # Docker
 
 - Steps to follow
-  - docker build -t doctor-patient-booking-app .
+  - docker build -t doctor-patient-booking-app
   - docker run -p 3000:3000 doctor-patient-booking-app
