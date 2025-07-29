@@ -30,6 +30,8 @@ doctor-appointment/
 - server.js
 - package.json
 - README.md
+- dockerfile
+- dockerignore
 - docs -> It contains POSTMAN collection of APIs
 
 # API List
