@@ -26,9 +26,11 @@ doctor-appointment/
   - services/
   - models/
   - routes/
+  - middlewares/
 - server.js
 - package.json
 - README.md
+- docs -> It contains POSTMAN collection of APIs
 
 # API List
 

@@ -1,0 +1,30 @@
+{
+  "name": "doctor-patient-booking-app",
+  "version": "1.0.0",
+  "description": "This is a simple Node.js + Express API for managing doctors and patient appointments.",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarmohit0819/doctor-patient-booking-app.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Mohit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarmohit0819/doctor-patient-booking-app/issues"
+  },
+  "homepage": "https://github.com/kumarmohit0819/doctor-patient-booking-app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
